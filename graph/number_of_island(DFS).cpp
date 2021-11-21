@@ -31,7 +31,7 @@ void DFS(vector<int> adj[],int V,int &c)
         }
     }
 }
-
+ 
 int main()
 {
   ///////

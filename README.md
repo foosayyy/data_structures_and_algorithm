@@ -1,2 +1,2 @@
 # data_structures_and_algorithm
-my self progress on my data structure and algorithm journey
+progress of my data structure and algorithms journey
